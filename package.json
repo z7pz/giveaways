@@ -1,0 +1,16 @@
+{
+  "name": "giveaway",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --es-module-specifier-resolution=node dist/index",
+    "start:dev": "nodemon ./src/index.ts",
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
