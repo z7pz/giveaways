@@ -2,8 +2,28 @@
     <pre><i>Welcome to Giveaways bot</i></pre>
 </h2>
 
-# 🗺 <b>Features!</b>
-    Soon...
+# 🗺 <b>Roadmap!</b>
+
+- [ ] Design 
+  - [ ] Brand
+    - [ ] Create a brand
+    - [ ] Web design
+- [ ] Client
+  - [ ] Create project using solid-js
+- [ ] Server
+  - [ ] Cooldown system
+  - [ ] Discord bot
+    - [ ] Commands and Events registery  
+    - [ ] Support slash commands
+  - [ ] Api
+    - [ ] Routes Registery 
+    - [ ] Decorators
+      - [ ] Rate limiter
+      - [ ] Formater
+    - [ ] Routes
+      - [ ] Auth route(s)
+      - [ ] Giveaways route(s) 
+      - [ ] General routes(s) 
 
 # 🚀 <b>Run Locally!</b>
 
